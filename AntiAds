@@ -375,6 +375,7 @@ DOMAIN-KEYWORD,smopy,REJECT
 DOMAIN-KEYWORD,socdm,REJECT
 DOMAIN-KEYWORD,speedeffectivefreedevice,REJECT
 DOMAIN-KEYWORD,splashimgbssdl.yun.kugou.com,REJECT
+DOMAIN-KEYWORD,startappservice,REJECT
 DOMAIN-KEYWORD,stat.ovh,REJECT
 DOMAIN-KEYWORD,stats.wp.com,REJECT
 DOMAIN-KEYWORD,stsdk.vivo.com.cn,REJECT
